@@ -1,15 +1,23 @@
-@import './vasr/vars';
-@import './utils/body';
-@import './utils/reset';
-@import './vasr/common';
-@import './components/container';
+@import "./utils/variables";
 
-@import './layouts/header';
-@import './layouts/hero';
-@import './layouts/about';
-@import './layouts/our-team';
-@import './layouts/soc-emp';
-@import './layouts/clients-sec';
-@import './layouts/portfolio';
-@import './layouts/modal';
-@import './layouts/fooret';
+@import "./components/body";
+@import "./components/container";
+@import "./components/section";
+
+@import "./components/menu";
+@import "./components/page-header";
+
+
+@import "./components/logo";
+@import "./components/contacts";
+@import "./components/hero";
+@import "./components/solution";
+@import "./components/work";
+@import "./components/command";
+@import "./components/social";
+@import "./components/clients";
+@import "./components/footer";
+@import "./components/footer-form";
+@import "./components/modalform";
+@import "./components/portfolio-btn";
+@import "./components/cards";
